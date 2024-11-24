@@ -1,3 +1,4 @@
+#using while loop
 while True:
     city=input("Please enter the name of a city you have to visit:")
     print(str(city))
